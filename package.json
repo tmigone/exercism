@@ -1,0 +1,14 @@
+{
+  "name": "exercism",
+  "version": "1.0.0",
+  "description": "Personal repo to put exercism coding challenges",
+  "scripts": {
+    "download": "./scripts/download.sh",
+    "submit": "./scripts/submit.sh"
+  },
+  "author": "Tomás Migone <tomasmigone@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-standard": "^10.0.0"
+  }
+}
